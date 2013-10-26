@@ -79,7 +79,7 @@
     	            android:textColor="#0b84aa"/>
  	
 		</LinearLayout>
-		<!-- Login Form Ends -->
+<!-- Login Form Ends -->
  
   </RelativeLayout>
 </ScrollView>
